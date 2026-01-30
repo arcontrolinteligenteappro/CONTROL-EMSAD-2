@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "name": "ARCONTROL horarios escolar emsad",
+  "description": ""
+}
